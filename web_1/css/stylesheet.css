@@ -3,18 +3,11 @@ body {
 }
 
 .wrapper {
-	/*background-color: #121a45;*/
   text-align: center;
 	color: black;
 	height: 30px;
 	padding: 5px;
 }
-
-
-/*.menu {
-  padding: 5px;
-  font-size: 25px;
-}*/
 
 .menu ul {
     max-width: 100%;
@@ -88,4 +81,5 @@ text-align: center;
 	color: #fff;
 	height: 65px;
 	padding: 10px;
+  text-align: center;
 }
