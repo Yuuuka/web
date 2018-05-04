@@ -1,0 +1,91 @@
+body {
+	font-family: "Avenir";
+}
+
+.wrapper {
+	/*background-color: #121a45;*/
+  text-align: center;
+	color: black;
+	height: 30px;
+	padding: 5px;
+}
+
+
+/*.menu {
+  padding: 5px;
+  font-size: 25px;
+}*/
+
+.menu ul {
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0px;
+}
+ 
+.menu li {
+    float: left;
+    width: 25%;
+    list-style-type: none;
+}
+ 
+.menu a {
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #556b2f;
+    color: #fff;
+}
+ 
+.menu a:hover {
+    background-color: #bdb76b;
+}
+
+.main-title img {
+	max-width: 100%;
+	height: auto;
+	width :auto;
+	/*padding-top: 10px;*/
+	/*padding-top: 50px;*/
+}
+
+.main-title {/*親div*/
+	position: relative;/*相対配置*/
+}
+
+.main-title p {
+	position: absolute;/*絶対配置*/
+	top: 70%;
+    left: 55%;
+    font-weight: bold; /*太字に*/
+    font-size: 2em;/*サイズ2倍*/
+    color: white;
+    margin:0;
+    padding:0;
+}
+
+.section-title {
+  border-bottom: 2px solid #556b2f;
+  font-size: 20px;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+}
+
+.newsbox {
+  height: 200px;
+  margin-top: 20px;
+  color: #121a45;
+  text-align: center;
+}
+
+.newsbox-midashi {
+text-align: center;
+}
+
+.footer {
+  background-color: #556b2f;
+	color: #fff;
+	height: 65px;
+	padding: 10px;
+}
