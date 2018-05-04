@@ -12,7 +12,11 @@ web_1
 ・トップページの画像も複数用意して自動で変わるようにする  
 
 # 参考サイト  
+[ナビゲーションメニューの作り方]  
 https://lab.sonicmoov.com/markup/css/css-navigation-menu/  
+[ブラウザの幅いっぱいに背景色を伸ばすメニューリスト]  
 http://korejage.link/2015/09/13/ブラウザの幅いっぱいに背景色を伸ばすメニュー/  
+[jQueryでサムネイル付きスライドショーをシンプルに作成する方法]  
 http://black-flag.net/jquery/20111122-3597.html  
+[画像の保存を禁止する方法]  
 http://kajico.kajilabo.net/prohibit_image_storage/
